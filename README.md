@@ -1,5 +1,5 @@
 <h1 align="center">Hi there.. 🙋🏻‍♂️ My name is Tanmay</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A dedicated developer skilled in front-end and data analysis. </h3>
 <p align="center"><img src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" alt="">
 
 
